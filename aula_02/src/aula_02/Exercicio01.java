@@ -11,9 +11,9 @@ public class Exercicio01 {
 		
 		float salario, abono, novoSalario;
 		
-		System.out.println("Digite o valor do salário: R$ ");
+		System.out.println("Digite o valor do salário R$ ");
 		salario = leia.nextFloat();
-		System.out.println("Digite o valor do Abono: R$ ");
+		System.out.println("Digite o valor do Abono R$ ");
 		abono = leia.nextFloat();
 		
 		
